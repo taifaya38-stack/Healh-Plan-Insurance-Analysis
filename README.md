@@ -67,4 +67,13 @@ NumPy
 
 Matplotlib / Seaborn
 
+📊 Power BI Dashboard
+
+This project includes an interactive Power BI dashboard analyzing:
+- Health plan benefits
+- Cost-sharing mechanisms
+- Provider network characteristics
+
+
+
 Jupyter Notebook
